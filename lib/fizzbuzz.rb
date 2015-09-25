@@ -13,5 +13,4 @@ class Fizzbuzz
     else
       number
     end
-  end
 end

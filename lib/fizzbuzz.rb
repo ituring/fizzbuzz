@@ -1,5 +1,6 @@
 class Fizzbuzz
   def calculate number
+    if number % 3 == 0 && number % 5 == 0
     if number.to_s.include? '7'
       'GitHub'
     elsif number % 3 == 0 && number % 5 == 0
@@ -12,4 +13,7 @@ class Fizzbuzz
       number
     end
   end
+
 end
+
+

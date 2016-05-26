@@ -1,6 +1,4 @@
 class Fizzbuzz
-   def calculate number
-     if number%3class Fizzbuzz
 	def calculate number
 		if number % 3 == 0 && number % 5 == 0
 			'fizzbuzz'

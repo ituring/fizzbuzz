@@ -1,3 +1,4 @@
+#wang hunk
 class Fizzbuzz
   def calculate number
     if number.to_s.include? '7'

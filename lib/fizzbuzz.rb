@@ -13,3 +13,5 @@ class Fizzbuzz
     end
   end
 end
+
+new line

@@ -8,8 +8,11 @@ class Fizzbuzz
       'fizz'
     elsif number % 5 == 0
       'buzz'
+	 elsif number %9==0
+		'nine_GitHub'
     else
       number
+	  end
     end
   end
 end

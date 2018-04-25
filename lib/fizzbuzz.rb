@@ -3,7 +3,7 @@ class Fizzbuzz
     if number.to_s.include? '7'
       'GitHub'
 	elsif number.to_s.include? '8'
-      'GitHub8'
+      'GitHub88'
     elsif number % 3 == 0 && number % 5 == 0
       'fizzbuzz'
     elsif number % 3 == 0

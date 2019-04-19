@@ -5,9 +5,9 @@ class Fizzbuzz
     elsif number % 3 == 0 && number % 5 == 0
       'fizzbuzz'
     elsif number % 3 == 0
-      'fizz'
+      'WANGJI'
     elsif number % 5 == 0
-      'buzz'
+      'Shenlulu'
     else
       number
     end

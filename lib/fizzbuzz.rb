@@ -9,7 +9,7 @@ class Fizzbuzz
     elsif number % 5 == 0
       'buzz'
 	elsif number.to_s.include? '9'
-	  'github9'
+	  'jygithub9'
     else
       number
     end
